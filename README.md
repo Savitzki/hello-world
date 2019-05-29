@@ -1,4 +1,4 @@
 # hello-world
-primeiro repositorio
-
-Hello, I am the marina, am computer sciencie student of IFSC. 
+int main(){
+  printf("Hello world\n");
+}
